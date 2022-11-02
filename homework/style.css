@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.726);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+div{
+    border: 2px solid black;
+    margin: 25px;
+    padding: 25px;
+    font-size: 20px;
+}
+
+.hobby img{
+    width: 350px;
+    height: 200px;
+}
+
+.hobby{
+    background-color: rgba(165, 104, 42, 0.856);
+    color: black;
+    font-style: italic;
+}
+
+.study img{
+    width: 270px;
+    height: 180px;
+}
+
+.study{
+    background-color: blanchedalmond;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.movie{
+    background-color: darkorange;
+    color: maroon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.movie img{
+    width: 150px;
+    height: 230px;
+}
+
+.internet{
+    text-align: center;
+}
+
+.internet{
+    text-decoration: none;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+}
+
+a{
+    text-decoration: none;
+}
